@@ -99,5 +99,4 @@ Evidencias: `evidencia_pruebas.txt` (salida de las pruebas) y `evidencia_menu.tx
 - El área y el precio por m² deben ser números enteros.
 
 ## Repositorio
-
-[Enlace al repositorio de GitHub]
+https://github.com/elkanuto78/Tarea-semana-6
